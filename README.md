@@ -1,6 +1,6 @@
 # StudentHub
 
-StudentHub es una plataforma para gestionar servicios académicos universitarios.
+StudentHub es una plataforma para gestionar servicios académicos universitarios
 
 ## Funcionalidades
 
